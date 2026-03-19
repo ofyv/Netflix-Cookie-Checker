@@ -98,10 +98,6 @@ If not found, returns `unknown_plan`.
 
 - `valids.txt` - Contains only the valid cookies found
 
-## 👨‍💻 Author
-
-akiralofy
-
 ## 📄 License
 
 MIT
